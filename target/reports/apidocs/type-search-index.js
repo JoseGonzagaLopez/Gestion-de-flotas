@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"dao","l":"GestionInventarioJSON"},{"p":"dao","l":"GestorBackups"},{"p":"dao","l":"GestorConfiguracion"},{"p":"dao","l":"GestorReportesXML"},{"p":"main","l":"Main"},{"p":"model","l":"Vehiculo"}];updateSearchResults();
